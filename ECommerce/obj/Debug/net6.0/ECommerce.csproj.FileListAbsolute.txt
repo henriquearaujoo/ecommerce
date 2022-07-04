@@ -1,0 +1,12 @@
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.deps.json
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.dll
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.pdb
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.csproj.AssemblyReference.cache
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.AssemblyInfoInputs.cache
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.AssemblyInfo.cs
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.dll
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\refint\ECommerce.dll
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.pdb
+C:\Users\PremierSoft\source\repos\ECommerce\ECommerce\obj\Debug\net6.0\ref\ECommerce.dll
